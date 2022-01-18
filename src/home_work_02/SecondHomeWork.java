@@ -22,8 +22,7 @@ public class SecondHomeWork{
 
     public static boolean compareNumbers(int a, int b) {
         int summa = a + b;
-        if (summa > 10 && summa < 20) return true;
-        else return false;
+        return(summa > 10 && summa < 20);
     }
 
     public static void positiveNumber(){
@@ -36,8 +35,7 @@ public class SecondHomeWork{
     }
 
     public static boolean positiveOrNegative(int d){
-        if (d < 0) return true;
-        else return false;
+        return (d < 0);
     }
 
 
