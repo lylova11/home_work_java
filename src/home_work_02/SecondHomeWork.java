@@ -38,13 +38,11 @@ public class SecondHomeWork{
         return (d < 0);
     }
 
-
    public static void printWordNTimes(String x, int times){
             for (times = 0; times <5; times++) {
                 System.out.println(x);
             }
    }
-
 
    public static void leapYear(int year){
         if (!(year % 4 == 0) || (year % 100 == 0) && !(year % 400 == 0)){
