@@ -12,7 +12,7 @@ public class ArrayClass {
 
 
 //        studyOneSizeArray();
-    int[][] myArray = new int[][];
+//    int[][] myArray = new int[][];
 
 //        for (int i = 0; i < 10; i++) {
 //            System.out.println(random.nextInt(30));
